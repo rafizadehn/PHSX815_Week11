@@ -1,5 +1,5 @@
 # PHSX 815: Week 11
-## Central Limit Theorem
+## K-Means Clustering Algorithm
 
 This repository includes a script that demonstrates the K-means clustering algorithm, showing a method of separating clusters of data. 
 
